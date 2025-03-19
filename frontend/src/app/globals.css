@@ -19,3 +19,9 @@ body {
   color: var(--foreground);
   font-family: var(--font-poppins);
 }
+
+.hidden-input {
+  opacity: 0;
+  position: absolute;
+  z-index: -1;
+}
