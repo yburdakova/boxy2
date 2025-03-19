@@ -13,20 +13,27 @@ Welcome to the Project Management Application for High-Volume Scanning Projects!
 
 ## Features
 
-- **Box Readiness Tracking**: Monitor the readiness status of boxes in real-time.
-- **Performance Metrics**: Track key performance metrics, including task completion speed for team members.
-- **Interactive Dashboard**: Visualize performance data with charts and graphs for better decision-making.
-- **State Management**: Efficient state management using Redux Toolkit.
-- **Routing**: Navigate smoothly between different sections of the application with React Router.
-- **Iconography**: Enhance the user experience with a comprehensive set of icons from react-icons.
+- **Box Readiness Tracking** Monitor the **real-time** readiness status of boxes.
+- **Performance Metrics** Track **task completion speed** and **team performance**.
+- **Interactive Dashboard**  Visualize **key performance data** with charts and graphs.
+- **State Management** Powered by **Redux Toolkit** for optimized app state.
+- **Modern UI** Styled with **Tailwind CSS** for a sleek design.
+- **Server-Side Rendering (SSR) & API Routes**  Built with **Next.js 15**.
 
 ## Technologies Used
 
-- **Frontend**: React, Redux Toolkit, TypeScript, Next.js
+### **Frontend**
+- **Framework**: Next.js 15 (`App Router`, `Turbopack`)
+- **Core**: React 19, TypeScript
+- **State Management**: Redux Toolkit, Redux Persist
+- **Styling**: Tailwind CSS
 - **Icons**: React Icons
-- **State Management**: Redux Persist, Redux Toolkit
-- **Build Tool**: Turbopack
 - **Linting**: ESLint, TypeScript ESLint
+
+### **Backend**
+- **Server**: Node.js, Express.js
+- **Database**: MySQL (via `mysql2`)
+- **Middleware**: CORS, dotenv, body-parser
 
 ## Getting Started
 
