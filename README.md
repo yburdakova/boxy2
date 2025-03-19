@@ -22,11 +22,10 @@ Welcome to the Project Management Application for High-Volume Scanning Projects!
 
 ## Technologies Used
 
-- **Frontend**: React, Redux Toolkit, TypeScript, Vite
-- **Routing**: React Router
+- **Frontend**: React, Redux Toolkit, TypeScript, Next.js
 - **Icons**: React Icons
 - **State Management**: Redux Persist, Redux Toolkit
-- **Build Tool**: Vite
+- **Build Tool**: Turbopack
 - **Linting**: ESLint, TypeScript ESLint
 
 ## Getting Started
